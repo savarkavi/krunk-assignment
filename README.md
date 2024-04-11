@@ -1,3 +1,9 @@
+
+What my assignment looks like:
+
+![Screenshot 2024-04-11 180741](https://github.com/savarkavi/krunk-assignment/assets/95624618/5053a9c1-a95f-4c4b-b997-e018bb0e5fd7)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
